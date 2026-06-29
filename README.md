@@ -1,2 +1,2 @@
-# Chud-
+# Chud++
 A new language
